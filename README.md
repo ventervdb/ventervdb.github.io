@@ -1,2 +1,2 @@
-# ventervdb.github.io
-Electronics Engineer | RF Systems | Product Development | Engineering Portfolio
+# Venter van der Berg Engineering Website
+GitHub Pages portfolio for Venter van der Berg.
