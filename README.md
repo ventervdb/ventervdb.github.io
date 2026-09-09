@@ -20,7 +20,7 @@ This portfolio presents selected examples of my practical engineering experience
 
 ## Selected Projects
 
-### 01 – GPRS / LTE Security Monitoring Device
+### 01 – GPRS / LTE Security Monitoring Communicator
 PCB and hardware development of a security monitoring and IoT communication device.
 
 ### 02 – VHF Transceiver
